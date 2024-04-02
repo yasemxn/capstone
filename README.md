@@ -1,1 +1,10 @@
-# capstone
+<h1>Constructor Robot with a Given Map of Buildings</h1>
+<h2>Overview</h2>
+The project's primary goal is to create structures of various heights using the provided building map. The height of each building on the map will be determined using image processing methods. This building map will be created by a constructor robot using objects of the same height. An image of a construction map will show the amount of buildings that are next to one another along with the height information for each structure. The output will be a visual display of this map, which will get formed by this map being examined with image processing methods. Information about the map including the number of structures and their related heights will be forwarded to the construction. A constructor robot that can carry objects and stack them on top of one another using the given map will be built. Three objects should be stacked on top of one another to create a building with three floors, as each object symbolises one level. All of the buildings are going to be visible to the robot once construction is finished.
+<br/>
+<h2>Definition of the problem</h2>
+The problem in this project is that in order for a constructor robot to navigate, carry, and build the objects in a correct way, the proper and necessary processed image input should be provided. A good amount of data from the processed image should be extracted as an input and implemented by the constructor robot as required. The algorithm of image analysing should provide a deductive visual. While working on this project, there are few potential challenges or problems we may encounter:
+<br/>
+<b>1. Image Processing: </b> Factors including lighting, resolution, and image quality can have an influence on image processing techniques. As a result, using image processing techniques to accurately calculate the heights of the buildings on the map may be difficult. <br/>
+<b>2. 3D Visualisation: </b> From the given map of building a 3D representation of the map should be generated. In this part which 3D engine will be used should be determined. <br/>
+
